@@ -1,4 +1,8 @@
 
 
 
-	class A {}
+	class A {
+
+	/* */
+
+	}
