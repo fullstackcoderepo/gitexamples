@@ -1,1 +1,7 @@
-class B {}
+class B {
+
+	B() {}
+
+
+
+}
